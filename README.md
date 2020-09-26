@@ -1,0 +1,2 @@
+# web_driver_for_yxt
+使用selenium自动化测试工具，登录网页进行测试操作
